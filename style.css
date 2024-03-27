@@ -3,6 +3,6 @@
     font-family: "Poppins", sans-serif;
 }
 
-.lg{
-    flex: 1;
+.active{
+    width:0%;
 }
